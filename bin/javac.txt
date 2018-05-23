@@ -1,0 +1,1 @@
+javac -d bin ./src/imgpro/*.java ./src/imgpro/adaptivecanny/*.java ./src/imgpro/gaussianblur/*.java ./src/imgpro/histogram/*.java ./src/imgpro/spatialfiltering/*.java 
