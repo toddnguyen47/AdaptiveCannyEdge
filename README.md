@@ -22,14 +22,14 @@ java imgpro.MainWindow
 ```
 
 # Screenshots
-Just the Gaussian blur.
+**Just the Gaussian blur.**
 ![Gaussian Blur Screenshot](./images/01_GaussianBlur.png)
 
-Regular Canny Edge Detection
+**Regular Canny Edge Detection**
 ![Canny Edge Detection Screenshot](./images/02_CannyEdgeDetector.png)
 
-Adaptive Canny Blurring
+**Adaptive Canny Blurring**
 ![Adaptive Canny Blurring Screenshot](./images/03_AdaptiveCannyBlurring.png)
 
-Adaptive Canny Edge Detection
+**Adaptive Canny Edge Detection**
 ![Adaptive Canny Edge Detection Screenshot](./images/04_AdaptiveCanny.png)
