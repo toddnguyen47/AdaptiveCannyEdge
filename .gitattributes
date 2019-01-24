@@ -1,0 +1,10 @@
+* text=auto eol=lf
+
+# Explicit text files
+*.java text
+*.form text
+
+# Explicit binary files
+*.jpeg binary
+*.jpg binary
+*.png binary
